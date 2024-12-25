@@ -7,4 +7,8 @@ A new Flutter project.
 ## Getting Started
 
 ![CHEESE!](https://github.com/user-attachments/assets/ea4a209c-453f-4b22-9e6c-fc7c3647177b)
+
 ![CHEESE!](https://github.com/user-attachments/assets/78f88b95-706a-4046-b1bb-8e87336735de)
+
+##===================Dependencies==================
+![CHEESE!](https://github.com/user-attachments/assets/b9798c63-9fb2-46c2-b2e9-8a92d84d928a)
