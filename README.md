@@ -1,16 +1,14 @@
 # elevate_task
 
 A new Flutter project.
+## Project Structure 
 
+![CHEESE!](https://github.com/user-attachments/assets/884b3725-8752-4d7c-a6f8-8c8040466a30)
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![CHEESE!](https://github.com/user-attachments/assets/ea4a209c-453f-4b22-9e6c-fc7c3647177b)
 
-A few resources to get you started if this is your first Flutter project:
+![CHEESE!](https://github.com/user-attachments/assets/78f88b95-706a-4046-b1bb-8e87336735de)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+![CHEESE!](https://github.com/user-attachments/assets/b9798c63-9fb2-46c2-b2e9-8a92d84d928a)
